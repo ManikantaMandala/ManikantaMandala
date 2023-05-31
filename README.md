@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManikantaMandala
 - 👀 I’m interested in movies,coding,workout and sleeping
-- 🌱 I’m currently learning B-tech second year
+- 🌱 I’m currently pursuing B-tech third year in BML Munjal University
 - 📫 How to reach me phoneNo:8688014820
 
 <!---
