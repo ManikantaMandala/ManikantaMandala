@@ -6,6 +6,8 @@
 - 💬 Ask me about **Java, Neovim config,**
 
 - 📫 How to reach me **mandala.mallik@gmail.com**
+  
+- I have fun by developing a personal development environment and learning solving new
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
