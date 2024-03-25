@@ -2,13 +2,10 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 - 🌱 I’m currently learning **MERN stack**
-
 - 💬 Ask me about **Java, Neovim config,**
-
 - 📫 How to reach me **mandala.mallik@gmail.com**
-
-- Find by problem solving skills **leetcode.com/user1224Kj/**
-- I have fun by developing a personal development environment and learning solving new
+- :thinking: Find by problem solving skills **leetcode.com/user1224Kj/**
+- :man_technologist: My Ikigai is software development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
