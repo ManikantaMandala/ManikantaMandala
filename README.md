@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **MERN stack**
 - 💬 Ask me about **Java, Neovim config,**
 - 📫 How to reach me **mandala.mallik@gmail.com**
-- :thinking: Find by problem solving skills **leetcode.com/user1224Kj/**
 - :man_technologist: My Ikigai is software development 
 
 <h3 align="left">Languages and Tools:</h3>
